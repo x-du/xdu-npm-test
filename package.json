@@ -1,0 +1,19 @@
+{
+  "name": "xdu-npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-du/xdu-npm-test.git"
+  },
+  "author": "Xiaochen Du",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/x-du/xdu-npm-test/issues"
+  },
+  "homepage": "https://github.com/x-du/xdu-npm-test#readme"
+}
